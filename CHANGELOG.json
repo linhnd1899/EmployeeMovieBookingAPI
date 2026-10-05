@@ -1,0 +1,4079 @@
+{
+  "releases": [
+    {
+      "version": "1.11.1",
+      "date": "2025-08-22",
+      "commitGroups": [
+        {
+          "title": "fix",
+          "type": "fix",
+          "commits": [
+            {
+              "hash": "6e1c562",
+              "subject": "update role to assume",
+              "scope": "DevOps-465",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/6e1c562"
+            }
+          ]
+        }
+      ],
+      "compareUrl": "https://github.com/spatialbiz/project-utility/compare/v1.11.0...v1.11.1"
+    },
+    {
+      "version": "1.11.0",
+      "date": "2025-08-22",
+      "commitGroups": [
+        {
+          "title": "fix",
+          "type": "fix",
+          "commits": [
+            {
+              "hash": "6362466",
+              "subject": "update change logs file path",
+              "scope": "DevOps-465",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/6362466"
+            },
+            {
+              "hash": "0fd61b7",
+              "subject": "update change logs json to artifact",
+              "scope": "DevOps-465",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/0fd61b7"
+            },
+            {
+              "hash": "db6fe9d",
+              "subject": "resolve maintainability",
+              "scope": "PRJU-189",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/db6fe9d"
+            },
+            {
+              "hash": "724e573",
+              "subject": "resolve maintainability",
+              "scope": "PRJU-189",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/724e573"
+            },
+            {
+              "hash": "ac5fad3",
+              "subject": "resolve maintainability",
+              "scope": "PRJU-189",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/ac5fad3"
+            },
+            {
+              "hash": "6cb92de",
+              "subject": "resolve maintainability",
+              "scope": "PRJU-189",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/6cb92de"
+            },
+            {
+              "hash": "199f3ff",
+              "subject": "resolve maintainability",
+              "scope": "PRJU-189",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/199f3ff"
+            },
+            {
+              "hash": "0b61c31",
+              "subject": "resolve maintainability",
+              "scope": "PRJU-189",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/0b61c31"
+            },
+            {
+              "hash": "d2a0cde",
+              "subject": "resolve maintainability",
+              "scope": "PRJU-189",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/d2a0cde"
+            },
+            {
+              "hash": "0d799c7",
+              "subject": "resolve maintainability",
+              "scope": "PRJU-189",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/0d799c7"
+            },
+            {
+              "hash": "f269a9b",
+              "subject": "resolve maintainability",
+              "scope": "PRJU-189",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/f269a9b"
+            },
+            {
+              "hash": "f1edad4",
+              "subject": "resolve maintainability",
+              "scope": "PRJU-189",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/f1edad4"
+            }
+          ]
+        },
+        {
+          "title": "feat",
+          "type": "feat",
+          "commits": [
+            {
+              "hash": "1498a30",
+              "subject": "resolve BaseEmailSenderService",
+              "scope": "PRJU-189",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/1498a30"
+            },
+            {
+              "hash": "a90dbc1",
+              "subject": "resolve maintainability",
+              "scope": "PRJU-189",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/a90dbc1"
+            },
+            {
+              "hash": "63f0ed1",
+              "subject": "resolve maintainability",
+              "scope": "PRJU-189",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/63f0ed1"
+            },
+            {
+              "hash": "aefe2e6",
+              "subject": "resolve maintainability",
+              "scope": "PRJU-189",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/aefe2e6"
+            },
+            {
+              "hash": "8074c4e",
+              "subject": "resolve maintainability",
+              "scope": "PRJU-189",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/8074c4e"
+            }
+          ]
+        }
+      ],
+      "compareUrl": "https://github.com/spatialbiz/project-utility/compare/v1.10.1...v1.11.0"
+    },
+    {
+      "version": "1.10.1",
+      "date": "2025-08-22",
+      "commitGroups": [
+        {
+          "title": "fix",
+          "type": "fix",
+          "commits": [
+            {
+              "hash": "b774406",
+              "subject": "Email notification integration",
+              "scope": "DevOps-465",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/b774406"
+            }
+          ]
+        }
+      ],
+      "compareUrl": "https://github.com/spatialbiz/project-utility/compare/v1.10.0...v1.10.1"
+    },
+    {
+      "version": "1.10.0",
+      "date": "2025-08-22",
+      "commitGroups": [
+        {
+          "title": "chore",
+          "type": "chore",
+          "commits": [
+            {
+              "hash": "39bfc1e",
+              "subject": "1.10.0 [skip ci]",
+              "scope": "release",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/39bfc1e"
+            }
+          ]
+        },
+        {
+          "title": "feat",
+          "type": "feat",
+          "commits": [
+            {
+              "hash": "0df074b",
+              "subject": "Integrate email notification",
+              "scope": "DevOps-465",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/0df074b"
+            },
+            {
+              "hash": "89bdf8a",
+              "subject": "update api for project by user id",
+              "scope": "UPA-43",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/89bdf8a"
+            }
+          ]
+        },
+        {
+          "title": "test",
+          "type": "test",
+          "commits": [
+            {
+              "hash": "d1ffd98",
+              "subject": "hotfix edit release test case",
+              "scope": "PRJ-0",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/d1ffd98"
+            },
+            {
+              "hash": "a953cf7",
+              "subject": "update approve release test case",
+              "scope": "PRJU-190",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/a953cf7"
+            },
+            {
+              "hash": "35a44d0",
+              "subject": "add automation tests for salesforce account",
+              "scope": "PRJU-491",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/35a44d0"
+            }
+          ]
+        },
+        {
+          "title": "hotfix",
+          "type": "hotfix",
+          "commits": [
+            {
+              "hash": "d3a02df",
+              "subject": "edit project phase test case",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/d3a02df"
+            }
+          ]
+        },
+        {
+          "title": "fix",
+          "type": "fix",
+          "commits": [
+            {
+              "hash": "9d8e6bf",
+              "subject": "timing to run autotest",
+              "scope": "PRJU-0",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/9d8e6bf"
+            }
+          ]
+        }
+      ],
+      "compareUrl": "https://github.com/spatialbiz/project-utility/compare/v1.9.0...v1.10.0"
+    },
+    {
+      "version": "1.9.0",
+      "date": "2025-07-28",
+      "commitGroups": [
+        {
+          "title": "chore",
+          "type": "chore",
+          "commits": [
+            {
+              "hash": "736c042",
+              "subject": "1.9.0 [skip ci]",
+              "scope": "release",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/736c042"
+            }
+          ]
+        },
+        {
+          "title": "fix",
+          "type": "fix",
+          "commits": [
+            {
+              "hash": "5933d94",
+              "subject": "update the release dmz",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/5933d94"
+            },
+            {
+              "hash": "c6126b1",
+              "subject": "dispatch sonar scan",
+              "scope": "PRJU-0",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/c6126b1"
+            },
+            {
+              "hash": "a795e40",
+              "subject": "dispatch sonar scan",
+              "scope": "PRJU-0",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/a795e40"
+            },
+            {
+              "hash": "655b94a",
+              "subject": "fix test handler",
+              "scope": "PRJU-0",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/655b94a"
+            },
+            {
+              "hash": "7167d13",
+              "subject": "run autotest when deploy to dev or release",
+              "scope": "PRJU-0",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/7167d13"
+            },
+            {
+              "hash": "9024d76",
+              "subject": "remove redundant columns",
+              "scope": "PRJU-181",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/9024d76"
+            },
+            {
+              "hash": "c7ff911",
+              "subject": "add login message and add verify email image",
+              "scope": "PRJU-441",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/c7ff911"
+            },
+            {
+              "hash": "050130a",
+              "subject": "modify verify email message",
+              "scope": "PRJU-441",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/050130a"
+            }
+          ]
+        },
+        {
+          "title": "feat",
+          "type": "feat",
+          "commits": [
+            {
+              "hash": "4e93cdf",
+              "subject": "add build query test",
+              "scope": "PRJU-185",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/4e93cdf"
+            },
+            {
+              "hash": "b6f6b27",
+              "subject": "add build response test",
+              "scope": "PRJU-185",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/b6f6b27"
+            },
+            {
+              "hash": "7bffa94",
+              "subject": "add crypto helper test",
+              "scope": "PRJU-185",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/7bffa94"
+            },
+            {
+              "hash": "cdf59ce",
+              "subject": "add error test",
+              "scope": "PRJU-185",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/cdf59ce"
+            },
+            {
+              "hash": "23f6ff0",
+              "subject": "add result test",
+              "scope": "PRJU-185",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/23f6ff0"
+            },
+            {
+              "hash": "f5caad3",
+              "subject": "add string extensions  test",
+              "scope": "PRJU-185",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/f5caad3"
+            },
+            {
+              "hash": "930f1f8",
+              "subject": "untracked FE tesst",
+              "scope": "PRJU-185",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/930f1f8"
+            },
+            {
+              "hash": "7da1037",
+              "subject": "update crypto helper test",
+              "scope": "PRJU-185",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/7da1037"
+            },
+            {
+              "hash": "1059a6a",
+              "subject": "update delete build command test",
+              "scope": "PRJU-185",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/1059a6a"
+            },
+            {
+              "hash": "e998f53",
+              "subject": "update sonarscan file",
+              "scope": "PRJU-185",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/e998f53"
+            }
+          ]
+        },
+        {
+          "title": "eat",
+          "type": "eat",
+          "commits": [
+            {
+              "hash": "4db9901",
+              "subject": "add related file test",
+              "scope": "PRJU-185",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/4db9901"
+            }
+          ]
+        },
+        {
+          "title": "test",
+          "type": "test",
+          "commits": [
+            {
+              "hash": "167a5dc",
+              "subject": "add test.step and console.log",
+              "scope": "PRJU-184",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/167a5dc"
+            }
+          ]
+        }
+      ],
+      "compareUrl": "https://github.com/spatialbiz/project-utility/compare/v1.8.10...v1.9.0"
+    },
+    {
+      "version": "1.8.10",
+      "date": "2025-07-15",
+      "commitGroups": [
+        {
+          "title": "chore",
+          "type": "chore",
+          "commits": [
+            {
+              "hash": "3e014b9",
+              "subject": "1.8.10 [skip ci]",
+              "scope": "release",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/3e014b9"
+            }
+          ]
+        },
+        {
+          "title": "fix",
+          "type": "fix",
+          "commits": [
+            {
+              "hash": "bf69646",
+              "subject": "fix autotest",
+              "scope": "PRJU-0",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/bf69646"
+            },
+            {
+              "hash": "e1b50f3",
+              "subject": "Remove the check for a running build in the start-build handler",
+              "scope": "PRJU-179",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/e1b50f3"
+            },
+            {
+              "hash": "97b2203",
+              "subject": "Remove unused namespace",
+              "scope": "PRJU-179",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/97b2203"
+            },
+            {
+              "hash": "5ce0e59",
+              "subject": "Update unit tests for release command handlers",
+              "scope": "PRJU-179",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/5ce0e59"
+            }
+          ]
+        }
+      ],
+      "compareUrl": "https://github.com/spatialbiz/project-utility/compare/v1.8.9...v1.8.10"
+    },
+    {
+      "version": "1.8.9",
+      "date": "2025-07-15",
+      "commitGroups": [
+        {
+          "title": "chore",
+          "type": "chore",
+          "commits": [
+            {
+              "hash": "8143dc9",
+              "subject": "1.8.9 [skip ci]",
+              "scope": "release",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/8143dc9"
+            }
+          ]
+        },
+        {
+          "title": "fix",
+          "type": "fix",
+          "commits": [
+            {
+              "hash": "e5670b6",
+              "subject": "fixed broken folder/file creation logic",
+              "scope": "api",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/e5670b6"
+            },
+            {
+              "hash": "88e86d4",
+              "subject": "null",
+              "scope": "api",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/88e86d4"
+            },
+            {
+              "hash": "cedc4f9",
+              "subject": "removed all instances of root path, use env name insead",
+              "scope": "api",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/cedc4f9"
+            },
+            {
+              "hash": "db1724f",
+              "subject": "removed all root path refs",
+              "scope": "api",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/db1724f"
+            },
+            {
+              "hash": "fda50d9",
+              "subject": "Add logging to troubleshoot",
+              "scope": "PRJU-000",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/fda50d9"
+            },
+            {
+              "hash": "aae8d67",
+              "subject": "change client maste path, should just always be relative path returned from db",
+              "scope": "ui",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/aae8d67"
+            }
+          ]
+        },
+        {
+          "title": "patch",
+          "type": "patch",
+          "commits": [
+            {
+              "hash": "d9b404c",
+              "subject": "fix file path",
+              "scope": "api",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/d9b404c"
+            }
+          ]
+        }
+      ],
+      "compareUrl": "https://github.com/spatialbiz/project-utility/compare/v1.8.8...v1.8.9"
+    },
+    {
+      "version": "1.8.8",
+      "date": "2025-07-15",
+      "commitGroups": [
+        {
+          "title": "chore",
+          "type": "chore",
+          "commits": [
+            {
+              "hash": "abbbdf6",
+              "subject": "1.8.8 [skip ci]",
+              "scope": "release",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/abbbdf6"
+            }
+          ]
+        },
+        {
+          "title": "fix",
+          "type": "fix",
+          "commits": [
+            {
+              "hash": "8f59172",
+              "subject": "Refetch and display the edited build information",
+              "scope": "PRJU-177",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/8f59172"
+            }
+          ]
+        },
+        {
+          "title": "patch",
+          "type": "patch",
+          "commits": [
+            {
+              "hash": "186ffa3",
+              "subject": "Update release-dmz.yml",
+              "scope": "devops",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/186ffa3"
+            }
+          ]
+        }
+      ],
+      "compareUrl": "https://github.com/spatialbiz/project-utility/compare/v1.8.7...v1.8.8"
+    },
+    {
+      "version": "1.8.7",
+      "date": "2025-07-14",
+      "commitGroups": [
+        {
+          "title": "chore",
+          "type": "chore",
+          "commits": [
+            {
+              "hash": "9cc55a3",
+              "subject": "1.8.7 [skip ci]",
+              "scope": "release",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/9cc55a3"
+            }
+          ]
+        },
+        {
+          "title": "patch",
+          "type": "patch",
+          "commits": [
+            {
+              "hash": "2a52329",
+              "subject": "remove database utilities",
+              "scope": "api",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/2a52329"
+            },
+            {
+              "hash": "bbfdd7c",
+              "subject": "trying to get the unit test project to even build. the unit test need to be fixed to actually test things right",
+              "scope": "api",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/bbfdd7c"
+            },
+            {
+              "hash": "d82e67e",
+              "subject": "Update deploy-dev.yml",
+              "scope": "devops",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/d82e67e"
+            }
+          ]
+        },
+        {
+          "title": "fix",
+          "type": "fix",
+          "commits": [
+            {
+              "hash": "6b96aed",
+              "subject": "always create the release folder",
+              "scope": "api",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/6b96aed"
+            }
+          ]
+        }
+      ],
+      "compareUrl": "https://github.com/spatialbiz/project-utility/compare/v1.8.6...v1.8.7"
+    },
+    {
+      "version": "1.8.6",
+      "date": "2025-07-14",
+      "commitGroups": [
+        {
+          "title": "chore",
+          "type": "chore",
+          "commits": [
+            {
+              "hash": "9db6b36",
+              "subject": "1.8.6 [skip ci]",
+              "scope": "release",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/9db6b36"
+            }
+          ]
+        },
+        {
+          "title": "fix",
+          "type": "fix",
+          "commits": [
+            {
+              "hash": "b694619",
+              "subject": "Refetch and display the edited build information",
+              "scope": "PRJU-177",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/b694619"
+            },
+            {
+              "hash": "6ed9153",
+              "subject": "Reset form add projects when close",
+              "scope": "PRJU-87",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/6ed9153"
+            },
+            {
+              "hash": "8ec1c54",
+              "subject": "Enable search by label only in Products dropdown",
+              "scope": "PRJU-89",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/8ec1c54"
+            }
+          ]
+        }
+      ],
+      "compareUrl": "https://github.com/spatialbiz/project-utility/compare/v1.8.5...v1.8.6"
+    },
+    {
+      "version": "1.8.5",
+      "date": "2025-07-14",
+      "commitGroups": [
+        {
+          "title": "chore",
+          "type": "chore",
+          "commits": [
+            {
+              "hash": "625f746",
+              "subject": "1.8.5 [skip ci]",
+              "scope": "release",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/625f746"
+            }
+          ]
+        },
+        {
+          "title": "fix",
+          "type": "fix",
+          "commits": [
+            {
+              "hash": "f15b75e",
+              "subject": "use EncodeGuid instead of EncryptGuid for generating URL",
+              "scope": "PRJU-175",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/f15b75e"
+            },
+            {
+              "hash": "f9eef97",
+              "subject": "fix list doesn't show more than 10 results",
+              "scope": "PRJU-322",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/f9eef97"
+            }
+          ]
+        }
+      ],
+      "compareUrl": "https://github.com/spatialbiz/project-utility/compare/v1.8.4...v1.8.5"
+    },
+    {
+      "version": "1.8.4",
+      "date": "2025-07-11",
+      "commitGroups": [
+        {
+          "title": "chore",
+          "type": "chore",
+          "commits": [
+            {
+              "hash": "e7444b0",
+              "subject": "1.8.4 [skip ci]",
+              "scope": "release",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/e7444b0"
+            }
+          ]
+        },
+        {
+          "title": "fix",
+          "type": "fix",
+          "commits": [
+            {
+              "hash": "2da0880",
+              "subject": "dmz sbs endpoint",
+              "scope": "PRJU-0",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/2da0880"
+            },
+            {
+              "hash": "58eecc4",
+              "subject": "fix get associated end point",
+              "scope": "PRJU-0",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/58eecc4"
+            },
+            {
+              "hash": "2c311e2",
+              "subject": "Fix missing unit test",
+              "scope": "PRJU-0",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/2c311e2"
+            }
+          ]
+        }
+      ],
+      "compareUrl": "https://github.com/spatialbiz/project-utility/compare/v1.8.3...v1.8.4"
+    },
+    {
+      "version": "1.8.3",
+      "date": "2025-07-11",
+      "commitGroups": [
+        {
+          "title": "chore",
+          "type": "chore",
+          "commits": [
+            {
+              "hash": "95fa1ab",
+              "subject": "1.8.3 [skip ci]",
+              "scope": "release",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/95fa1ab"
+            }
+          ]
+        },
+        {
+          "title": "fix",
+          "type": "fix",
+          "commits": [
+            {
+              "hash": "22aeb72",
+              "subject": "Fix missing unit test",
+              "scope": "PRJU-0",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/22aeb72"
+            }
+          ]
+        },
+        {
+          "title": false,
+          "type": null,
+          "commits": [
+            {
+              "hash": "2d69b6e",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/2d69b6e"
+            }
+          ]
+        },
+        {
+          "title": "patch",
+          "type": "patch",
+          "commits": [
+            {
+              "hash": "a7b90f2",
+              "subject": "Removed develoment from env file",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/a7b90f2"
+            }
+          ]
+        }
+      ],
+      "compareUrl": "https://github.com/spatialbiz/project-utility/compare/v1.8.2...v1.8.3"
+    },
+    {
+      "version": "1.8.2",
+      "date": "2025-07-11",
+      "commitGroups": [
+        {
+          "title": "chore",
+          "type": "chore",
+          "commits": [
+            {
+              "hash": "96461d5",
+              "subject": "1.8.2 [skip ci]",
+              "scope": "release",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/96461d5"
+            }
+          ]
+        },
+        {
+          "title": "fix",
+          "type": "fix",
+          "commits": [
+            {
+              "hash": "bc92a87",
+              "subject": "Files.com path fix, add link to Jenkins build status email",
+              "scope": "PRJU-0",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/bc92a87"
+            },
+            {
+              "hash": "e8e46dc",
+              "subject": "Fix missing unit test",
+              "scope": "PRJU-0",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/e8e46dc"
+            }
+          ]
+        }
+      ],
+      "compareUrl": "https://github.com/spatialbiz/project-utility/compare/v1.8.1...v1.8.2"
+    },
+    {
+      "version": "1.8.1",
+      "date": "2025-07-11",
+      "commitGroups": [
+        {
+          "title": "chore",
+          "type": "chore",
+          "commits": [
+            {
+              "hash": "f4e7a0f",
+              "subject": "1.8.1 [skip ci]",
+              "scope": "release",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/f4e7a0f"
+            }
+          ]
+        },
+        {
+          "title": false,
+          "type": null,
+          "commits": [
+            {
+              "hash": "df02bcd",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/df02bcd"
+            },
+            {
+              "hash": "bcaacbd",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/bcaacbd"
+            },
+            {
+              "hash": "60e7d25",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/60e7d25"
+            }
+          ]
+        },
+        {
+          "title": "fix",
+          "type": "fix",
+          "commits": [
+            {
+              "hash": "d479b4e",
+              "subject": "phases",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/d479b4e"
+            },
+            {
+              "hash": "8e705ee",
+              "subject": "z-index-input-date",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/8e705ee"
+            }
+          ]
+        }
+      ],
+      "compareUrl": "https://github.com/spatialbiz/project-utility/compare/v1.8.0...v1.8.1"
+    },
+    {
+      "version": "1.8.0",
+      "date": "2025-07-11",
+      "commitGroups": [
+        {
+          "title": "chore",
+          "type": "chore",
+          "commits": [
+            {
+              "hash": "b413d11",
+              "subject": "1.8.0 [skip ci]",
+              "scope": "release",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/b413d11"
+            }
+          ]
+        },
+        {
+          "title": "feat",
+          "type": "feat",
+          "commits": [
+            {
+              "hash": "6b95255",
+              "subject": "add version for the project utility after release",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/6b95255"
+            }
+          ]
+        },
+        {
+          "title": "fix",
+          "type": "fix",
+          "commits": [
+            {
+              "hash": "258d401",
+              "subject": "remove project lead toggle",
+              "scope": "PRJU-0",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/258d401"
+            },
+            {
+              "hash": "e19d06d",
+              "subject": "fix toggle behaviors",
+              "scope": "PRJU-163",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/e19d06d"
+            },
+            {
+              "hash": "f1a8e35",
+              "subject": "fix covered date input",
+              "scope": "PRJU-167",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/f1a8e35"
+            }
+          ]
+        }
+      ],
+      "compareUrl": "https://github.com/spatialbiz/project-utility/compare/v1.7.2...v1.8.0"
+    },
+    {
+      "version": "1.7.2",
+      "date": "2025-07-10",
+      "commitGroups": [
+        {
+          "title": "chore",
+          "type": "chore",
+          "commits": [
+            {
+              "hash": "b4954a7",
+              "subject": "1.7.2 [skip ci]",
+              "scope": "release",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/b4954a7"
+            }
+          ]
+        },
+        {
+          "title": "fix",
+          "type": "fix",
+          "commits": [
+            {
+              "hash": "ab623a4",
+              "subject": "update production config",
+              "scope": "PRJU-0",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/ab623a4"
+            }
+          ]
+        }
+      ],
+      "compareUrl": "https://github.com/spatialbiz/project-utility/compare/v1.7.1...v1.7.2"
+    },
+    {
+      "version": "1.7.1",
+      "date": "2025-07-10",
+      "commitGroups": [
+        {
+          "title": "chore",
+          "type": "chore",
+          "commits": [
+            {
+              "hash": "0f6f44a",
+              "subject": "1.7.1 [skip ci]",
+              "scope": "release",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/0f6f44a"
+            }
+          ]
+        },
+        {
+          "title": "fix",
+          "type": "fix",
+          "commits": [
+            {
+              "hash": "e7db556",
+              "subject": "Remove unit test for query project by id public handler",
+              "scope": "PRJU-162",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/e7db556"
+            },
+            {
+              "hash": "da031a5",
+              "subject": "Update GetProjectByIdPublic in Repository",
+              "scope": "PRJU-162",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/da031a5"
+            },
+            {
+              "hash": "736f2f0",
+              "subject": "Update unit tests for project repository",
+              "scope": "PRJU-162",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/736f2f0"
+            },
+            {
+              "hash": "cfa6860",
+              "subject": "Fix public project API not filtering projects by current account Id",
+              "scope": "PRJU-164",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/cfa6860"
+            }
+          ]
+        }
+      ],
+      "compareUrl": "https://github.com/spatialbiz/project-utility/compare/v1.7.0...v1.7.1"
+    },
+    {
+      "version": "1.7.0",
+      "date": "2025-07-10",
+      "commitGroups": [
+        {
+          "title": "chore",
+          "type": "chore",
+          "commits": [
+            {
+              "hash": "2be8e11",
+              "subject": "Re-add prefix for Dev environment for now",
+              "scope": "PRJU-0",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/2be8e11"
+            },
+            {
+              "hash": "43b2631",
+              "subject": "1.7.0 [skip ci]",
+              "scope": "release",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/43b2631"
+            }
+          ]
+        },
+        {
+          "title": "fix",
+          "type": "fix",
+          "commits": [
+            {
+              "hash": "d6c8c9e",
+              "subject": "app settings",
+              "scope": "api",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/d6c8c9e"
+            },
+            {
+              "hash": "a951fc2",
+              "subject": "Add stage public tenant config",
+              "scope": "PRJU-0",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/a951fc2"
+            },
+            {
+              "hash": "6fad818",
+              "subject": "remove RootPath prefix config for Files.com calls",
+              "scope": "PRJU-0",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/6fad818"
+            },
+            {
+              "hash": "cdfcd90",
+              "subject": "fix test",
+              "scope": "PRJU-153",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/cdfcd90"
+            },
+            {
+              "hash": "a9de1a7",
+              "subject": "fix test",
+              "scope": "PRJU-153",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/a9de1a7"
+            },
+            {
+              "hash": "1b5045a",
+              "subject": "Fix empty state",
+              "scope": "PRJU-160",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/1b5045a"
+            },
+            {
+              "hash": "2bcc5e4",
+              "subject": "fix loading state",
+              "scope": "PRJU-160",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/2bcc5e4"
+            },
+            {
+              "hash": "9b8eb6c",
+              "subject": "fix show toast in base query",
+              "scope": "PRJU-160",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/9b8eb6c"
+            },
+            {
+              "hash": "618c476",
+              "subject": "using module name instead of module code",
+              "scope": "release detail",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/618c476"
+            },
+            {
+              "hash": "4e8eef2",
+              "subject": "fix disable add files",
+              "scope": "UPU-160",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/4e8eef2"
+            }
+          ]
+        },
+        {
+          "title": "test",
+          "type": "test",
+          "commits": [
+            {
+              "hash": "a67549c",
+              "subject": "fix config",
+              "scope": "PRJU-0",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/a67549c"
+            },
+            {
+              "hash": "cb71098",
+              "subject": "add clean autotest project job and nofify teams when auto test run",
+              "scope": "PRJU-153",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/cb71098"
+            }
+          ]
+        },
+        {
+          "title": false,
+          "type": null,
+          "commits": [
+            {
+              "hash": "7fb6b6a",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/7fb6b6a"
+            },
+            {
+              "hash": "db0d249",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/db0d249"
+            },
+            {
+              "hash": "22d982d",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/22d982d"
+            },
+            {
+              "hash": "3c1ff0f",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/3c1ff0f"
+            },
+            {
+              "hash": "f0317dd",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/f0317dd"
+            },
+            {
+              "hash": "ebf2aad",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/ebf2aad"
+            },
+            {
+              "hash": "a963a6f",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/a963a6f"
+            }
+          ]
+        },
+        {
+          "title": "patch",
+          "type": "patch",
+          "commits": [
+            {
+              "hash": "5823d87",
+              "subject": "add more logging to troubleshoot",
+              "scope": "api",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/5823d87"
+            }
+          ]
+        },
+        {
+          "title": "feat",
+          "type": "feat",
+          "commits": [
+            {
+              "hash": "8b077c6",
+              "subject": "finished migration code",
+              "scope": "api",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/8b077c6"
+            }
+          ]
+        }
+      ],
+      "compareUrl": "https://github.com/spatialbiz/project-utility/compare/v1.6.0...v1.7.0"
+    },
+    {
+      "version": "1.6.0",
+      "date": "2025-07-04",
+      "commitGroups": [
+        {
+          "title": "chore",
+          "type": "chore",
+          "commits": [
+            {
+              "hash": "59f2bf0",
+              "subject": "1.6.0 [skip ci]",
+              "scope": "release",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/59f2bf0"
+            }
+          ]
+        },
+        {
+          "title": "feat",
+          "type": "feat",
+          "commits": [
+            {
+              "hash": "4fc8eea",
+              "subject": "Fix typo & fix expand build detail panel in release detail page",
+              "scope": "PRJU-152",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/4fc8eea"
+            },
+            {
+              "hash": "290fb7a",
+              "subject": "Persistent expanded module detail panel",
+              "scope": "PRJU-152",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/290fb7a"
+            },
+            {
+              "hash": "3844b5e",
+              "subject": "Persistent expanded rows of project",
+              "scope": "PRJU-152",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/3844b5e"
+            },
+            {
+              "hash": "46625e3",
+              "subject": "Persistent selected tab in project detail panel",
+              "scope": "PRJU-152",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/46625e3"
+            },
+            {
+              "hash": "397a04e",
+              "subject": "Refactor subcomponent module method into a dedicated component",
+              "scope": "PRJU-152",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/397a04e"
+            },
+            {
+              "hash": "a5220e1",
+              "subject": "Refactor subcomponent project membership method into a dedicated component",
+              "scope": "PRJU-152",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/a5220e1"
+            },
+            {
+              "hash": "b2b1db3",
+              "subject": "Using module name instead of module code",
+              "scope": "PRJU-152",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/b2b1db3"
+            }
+          ]
+        },
+        {
+          "title": "fix",
+          "type": "fix",
+          "commits": [
+            {
+              "hash": "be08436",
+              "subject": "Word wrap on last column of phase",
+              "scope": "416",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/be08436"
+            },
+            {
+              "hash": "7485ab8",
+              "subject": "fix test",
+              "scope": "PRJU-153",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/7485ab8"
+            }
+          ]
+        }
+      ],
+      "compareUrl": "https://github.com/spatialbiz/project-utility/compare/v1.5.0...v1.6.0"
+    },
+    {
+      "version": "1.5.0",
+      "date": "2025-07-04",
+      "commitGroups": [
+        {
+          "title": "chore",
+          "type": "chore",
+          "commits": [
+            {
+              "hash": "26be27e",
+              "subject": "1.5.0 [skip ci]",
+              "scope": "release",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/26be27e"
+            }
+          ]
+        },
+        {
+          "title": "fix",
+          "type": "fix",
+          "commits": [
+            {
+              "hash": "9c46066",
+              "subject": "fix env",
+              "scope": "PRJU-0",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/9c46066"
+            },
+            {
+              "hash": "5e4e1cc",
+              "subject": "fix this is dumb)",
+              "scope": "PRJU-0",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/5e4e1cc"
+            },
+            {
+              "hash": "a872a9d",
+              "subject": "Update Dockerfile to support MS SQL client",
+              "scope": "PRJU-0",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/a872a9d"
+            },
+            {
+              "hash": "bbe9787",
+              "subject": "stabilize test",
+              "scope": "PRJU-126",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/bbe9787"
+            }
+          ]
+        },
+        {
+          "title": false,
+          "type": null,
+          "commits": [
+            {
+              "hash": "eb8f0dd",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/eb8f0dd"
+            }
+          ]
+        },
+        {
+          "title": "feat",
+          "type": "feat",
+          "commits": [
+            {
+              "hash": "6880796",
+              "subject": "finished initial project migration scripts. Still need to add validation.",
+              "scope": "api",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/6880796"
+            },
+            {
+              "hash": "d53336c",
+              "subject": "Ported over data migration classes. Refactored some of the database code and removed data seeding classes.",
+              "scope": "api",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/d53336c"
+            }
+          ]
+        },
+        {
+          "title": "test",
+          "type": "test",
+          "commits": [
+            {
+              "hash": "848bd68",
+              "subject": "fix test",
+              "scope": "PRJU-0",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/848bd68"
+            },
+            {
+              "hash": "3ad8a27",
+              "subject": "add github workflow",
+              "scope": "PRJU-126",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/3ad8a27"
+            },
+            {
+              "hash": "63c3bed",
+              "subject": "add script and reduce worker for better stability",
+              "scope": "PRJU-126",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/63c3bed"
+            },
+            {
+              "hash": "ca65308",
+              "subject": "fix sh file",
+              "scope": "PRJU-126",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/ca65308"
+            },
+            {
+              "hash": "bac2937",
+              "subject": "add aws secret config",
+              "scope": "PRJU-153",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/bac2937"
+            },
+            {
+              "hash": "f6593bd",
+              "subject": "permission to autotest yml",
+              "scope": "PRJU-153",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/f6593bd"
+            },
+            {
+              "hash": "8b35a02",
+              "subject": "teams notification",
+              "scope": "PRJU-153",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/8b35a02"
+            }
+          ]
+        }
+      ],
+      "compareUrl": "https://github.com/spatialbiz/project-utility/compare/v1.4.0...v1.5.0"
+    },
+    {
+      "version": "1.4.0",
+      "date": "2025-07-01",
+      "commitGroups": [
+        {
+          "title": "chore",
+          "type": "chore",
+          "commits": [
+            {
+              "hash": "a730589",
+              "subject": "1.4.0 [skip ci]",
+              "scope": "release",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/a730589"
+            }
+          ]
+        },
+        {
+          "title": "feat",
+          "type": "feat",
+          "commits": [
+            {
+              "hash": "af9889e",
+              "subject": "email separator based on env",
+              "scope": "PRJU-148",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/af9889e"
+            }
+          ]
+        }
+      ],
+      "compareUrl": "https://github.com/spatialbiz/project-utility/compare/v1.3.0...v1.4.0"
+    },
+    {
+      "version": "1.3.0",
+      "date": "2025-06-30",
+      "commitGroups": [
+        {
+          "title": "chore",
+          "type": "chore",
+          "commits": [
+            {
+              "hash": "b6de31d",
+              "subject": "1.3.0 [skip ci]",
+              "scope": "release",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/b6de31d"
+            }
+          ]
+        },
+        {
+          "title": "test",
+          "type": "test",
+          "commits": [
+            {
+              "hash": "35aad6a",
+              "subject": "fix env",
+              "scope": "PRJU-0",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/35aad6a"
+            }
+          ]
+        },
+        {
+          "title": "feat",
+          "type": "feat",
+          "commits": [
+            {
+              "hash": "97b8fcf",
+              "subject": " email when approve release & fix search file in module in release",
+              "scope": "PRJU-148",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/97b8fcf"
+            }
+          ]
+        }
+      ],
+      "compareUrl": "https://github.com/spatialbiz/project-utility/compare/v1.2.3...v1.3.0"
+    },
+    {
+      "version": "1.2.3",
+      "date": "2025-06-30",
+      "commitGroups": [
+        {
+          "title": "chore",
+          "type": "chore",
+          "commits": [
+            {
+              "hash": "8edc77d",
+              "subject": "1.2.3 [skip ci]",
+              "scope": "release",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/8edc77d"
+            }
+          ]
+        },
+        {
+          "title": "fix",
+          "type": "fix",
+          "commits": [
+            {
+              "hash": "e9191f0",
+              "subject": "Add start build and edit buttons in build detail page",
+              "scope": "PRJU-147",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/e9191f0"
+            },
+            {
+              "hash": "21fc8a7",
+              "subject": "Display start build and edit buttons based on permission",
+              "scope": "PRJU-147",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/21fc8a7"
+            },
+            {
+              "hash": "bd6d373",
+              "subject": "Fix warning in start build",
+              "scope": "PRJU-147",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/bd6d373"
+            },
+            {
+              "hash": "20b8d1a",
+              "subject": "navigate to previous page if available when edit build",
+              "scope": "PRJU-147",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/20b8d1a"
+            }
+          ]
+        },
+        {
+          "title": "test",
+          "type": "test",
+          "commits": [
+            {
+              "hash": "75861d0",
+              "subject": "clean code",
+              "scope": "PRJU-0",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/75861d0"
+            }
+          ]
+        },
+        {
+          "title": false,
+          "type": null,
+          "commits": [
+            {
+              "hash": "3614b34",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/3614b34"
+            }
+          ]
+        }
+      ],
+      "compareUrl": "https://github.com/spatialbiz/project-utility/compare/v1.2.2...v1.2.3"
+    },
+    {
+      "version": "1.2.2",
+      "date": "2025-06-27",
+      "commitGroups": [
+        {
+          "title": "chore",
+          "type": "chore",
+          "commits": [
+            {
+              "hash": "4e8fba0",
+              "subject": "1.2.2 [skip ci]",
+              "scope": "release",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/4e8fba0"
+            }
+          ]
+        },
+        {
+          "title": "fix",
+          "type": "fix",
+          "commits": [
+            {
+              "hash": "f4bfe73",
+              "subject": "fix jenkins download url",
+              "scope": "PRJU-0",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/f4bfe73"
+            }
+          ]
+        }
+      ],
+      "compareUrl": "https://github.com/spatialbiz/project-utility/compare/v1.2.1...v1.2.2"
+    },
+    {
+      "version": "1.2.1",
+      "date": "2025-06-27",
+      "commitGroups": [
+        {
+          "title": "chore",
+          "type": "chore",
+          "commits": [
+            {
+              "hash": "4c90c1c",
+              "subject": "1.2.1 [skip ci]",
+              "scope": "release",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/4c90c1c"
+            }
+          ]
+        },
+        {
+          "title": "fix",
+          "type": "fix",
+          "commits": [
+            {
+              "hash": "ee8309a",
+              "subject": "update utility api path",
+              "scope": "PRJU-0",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/ee8309a"
+            }
+          ]
+        },
+        {
+          "title": false,
+          "type": null,
+          "commits": [
+            {
+              "hash": "010bc39",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/010bc39"
+            },
+            {
+              "hash": "4e2109b",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/4e2109b"
+            },
+            {
+              "hash": "0028a2a",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/0028a2a"
+            },
+            {
+              "hash": "d66f734",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/d66f734"
+            },
+            {
+              "hash": "3de21bd",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/3de21bd"
+            }
+          ]
+        }
+      ],
+      "compareUrl": "https://github.com/spatialbiz/project-utility/compare/v1.2.0...v1.2.1"
+    },
+    {
+      "version": "1.2.0",
+      "date": "2025-06-26",
+      "commitGroups": [
+        {
+          "title": "chore",
+          "type": "chore",
+          "commits": [
+            {
+              "hash": "43d1bec",
+              "subject": "1.2.0 [skip ci]",
+              "scope": "release",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/43d1bec"
+            }
+          ]
+        },
+        {
+          "title": "fix",
+          "type": "fix",
+          "commits": [
+            {
+              "hash": "7fe7ab7",
+              "subject": "Update width PopoverContent",
+              "scope": "popover content",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/7fe7ab7"
+            }
+          ]
+        }
+      ],
+      "compareUrl": "https://github.com/spatialbiz/project-utility/compare/v1.1.1...v1.2.0"
+    },
+    {
+      "version": "1.1.1",
+      "date": "2025-06-26",
+      "commitGroups": [
+        {
+          "title": "chore",
+          "type": "chore",
+          "commits": [
+            {
+              "hash": "ea89f96",
+              "subject": "1.1.1 [skip ci]",
+              "scope": "release",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/ea89f96"
+            }
+          ]
+        },
+        {
+          "title": "fix",
+          "type": "fix",
+          "commits": [
+            {
+              "hash": "e9fc481",
+              "subject": "update jenkins util download url dmz config",
+              "scope": "PRJU-0",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/e9fc481"
+            }
+          ]
+        }
+      ],
+      "compareUrl": "https://github.com/spatialbiz/project-utility/compare/v1.1.0...v1.1.1"
+    },
+    {
+      "version": "1.1.0",
+      "date": "2025-06-26",
+      "commitGroups": [
+        {
+          "title": "chore",
+          "type": "chore",
+          "commits": [
+            {
+              "hash": "ec1e88f",
+              "subject": "1.1.0 [skip ci]",
+              "scope": "release",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/ec1e88f"
+            }
+          ]
+        },
+        {
+          "title": "fix",
+          "type": "fix",
+          "commits": [
+            {
+              "hash": "f2a779e",
+              "subject": "Update Jenkins production config",
+              "scope": "PRJU-0",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/f2a779e"
+            },
+            {
+              "hash": "70efee2",
+              "subject": "Redirect user to login page when token is invalid",
+              "scope": "redirect to login",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/70efee2"
+            },
+            {
+              "hash": "11e455e",
+              "subject": "Fix saving build history when catch exception",
+              "scope": "start-build",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/11e455e"
+            },
+            {
+              "hash": "a8ee6e0",
+              "subject": "Rebase & fix missing using directives",
+              "scope": "UP-378",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/a8ee6e0"
+            }
+          ]
+        },
+        {
+          "title": "feat",
+          "type": "feat",
+          "commits": [
+            {
+              "hash": "1c1dff0",
+              "subject": "Display role name as badges, ordered by priority",
+              "scope": "PRJU-134",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/1c1dff0"
+            },
+            {
+              "hash": "ed8d1fa",
+              "subject": "Permission-based in NavBar & Route",
+              "scope": "PRJU-134",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/ed8d1fa"
+            },
+            {
+              "hash": "46ee876",
+              "subject": "Skip consume API when signed-in user does not have permission",
+              "scope": "PRJU-134",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/46ee876"
+            }
+          ]
+        },
+        {
+          "title": false,
+          "type": null,
+          "commits": [
+            {
+              "hash": "e80efd8",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/e80efd8"
+            },
+            {
+              "hash": "c39d84f",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/c39d84f"
+            },
+            {
+              "hash": "4804912",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/4804912"
+            },
+            {
+              "hash": "e3401ec",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/e3401ec"
+            },
+            {
+              "hash": "628e4ed",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/628e4ed"
+            }
+          ]
+        },
+        {
+          "title": "test",
+          "type": "test",
+          "commits": [
+            {
+              "hash": "7332ab9",
+              "subject": "fix unit test GetProjectsPublic_WithUnrestrictedAccessProjects_ReturnsAllPublicProjects",
+              "scope": "PRJU-134",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/7332ab9"
+            }
+          ]
+        },
+        {
+          "title": "docs",
+          "type": "docs",
+          "commits": [
+            {
+              "hash": "cbc09b8",
+              "subject": "add desc for response code in AppController & UsersController",
+              "scope": "PRJU-134",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/cbc09b8"
+            },
+            {
+              "hash": "6a16f78",
+              "subject": "Fix typo",
+              "scope": "PRJU-134",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/6a16f78"
+            },
+            {
+              "hash": "b92bba6",
+              "subject": "update documentation in AppController",
+              "scope": "PRJU-134",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/b92bba6"
+            },
+            {
+              "hash": "252eeac",
+              "subject": "update documentation in BuildsController",
+              "scope": "PRJU-134",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/252eeac"
+            },
+            {
+              "hash": "1c858ee",
+              "subject": "update documentation in FilesController",
+              "scope": "PRJU-134",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/1c858ee"
+            },
+            {
+              "hash": "f488e31",
+              "subject": "update documentation in ModulesController",
+              "scope": "PRJU-134",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/f488e31"
+            },
+            {
+              "hash": "6a66e7b",
+              "subject": "update documentation in ProjectsController",
+              "scope": "PRJU-134",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/6a66e7b"
+            },
+            {
+              "hash": "984e5e3",
+              "subject": "update documentation in UsersController",
+              "scope": "PRJU-134",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/984e5e3"
+            },
+            {
+              "hash": "8ef11b9",
+              "subject": "update heading documentations",
+              "scope": "PRJU-134",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/8ef11b9"
+            },
+            {
+              "hash": "5bbb9f6",
+              "subject": "update ProducesResponseType in ProjectsController",
+              "scope": "PRJU-134",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/5bbb9f6"
+            }
+          ]
+        }
+      ],
+      "compareUrl": "https://github.com/spatialbiz/project-utility/compare/v1.0.0...v1.1.0"
+    },
+    {
+      "version": "1.0.0",
+      "date": "2025-06-24",
+      "commitGroups": [
+        {
+          "title": "chore",
+          "type": "chore",
+          "commits": [
+            {
+              "hash": "2ffc01e",
+              "subject": "1.0.0 [skip ci]",
+              "scope": "release",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/2ffc01e"
+            }
+          ]
+        },
+        {
+          "title": false,
+          "type": null,
+          "commits": [
+            {
+              "hash": "cb345a0",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/cb345a0"
+            },
+            {
+              "hash": "33e0c0f",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/33e0c0f"
+            },
+            {
+              "hash": "b512b03",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/b512b03"
+            },
+            {
+              "hash": "46d0a52",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/46d0a52"
+            },
+            {
+              "hash": "c1f95bb",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/c1f95bb"
+            },
+            {
+              "hash": "7601b3d",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/7601b3d"
+            },
+            {
+              "hash": "25c75e1",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/25c75e1"
+            },
+            {
+              "hash": "ecfc0ae",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/ecfc0ae"
+            },
+            {
+              "hash": "80d212e",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/80d212e"
+            },
+            {
+              "hash": "fd65a49",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/fd65a49"
+            },
+            {
+              "hash": "14f6054",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/14f6054"
+            },
+            {
+              "hash": "2884b8f",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/2884b8f"
+            },
+            {
+              "hash": "69c0204",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/69c0204"
+            },
+            {
+              "hash": "8b1e2e3",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/8b1e2e3"
+            },
+            {
+              "hash": "62506d0",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/62506d0"
+            },
+            {
+              "hash": "18faf0d",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/18faf0d"
+            },
+            {
+              "hash": "832f948",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/832f948"
+            },
+            {
+              "hash": "e1c7078",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/e1c7078"
+            },
+            {
+              "hash": "3ba9572",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/3ba9572"
+            },
+            {
+              "hash": "243b9e8",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/243b9e8"
+            },
+            {
+              "hash": "85731e7",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/85731e7"
+            },
+            {
+              "hash": "82c298a",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/82c298a"
+            },
+            {
+              "hash": "bec49b4",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/bec49b4"
+            },
+            {
+              "hash": "3d5b147",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/3d5b147"
+            },
+            {
+              "hash": "e1806ae",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/e1806ae"
+            },
+            {
+              "hash": "a219a15",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/a219a15"
+            },
+            {
+              "hash": "2be9e53",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/2be9e53"
+            },
+            {
+              "hash": "e7bbed1",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/e7bbed1"
+            },
+            {
+              "hash": "193f462",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/193f462"
+            },
+            {
+              "hash": "8f98852",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/8f98852"
+            },
+            {
+              "hash": "d2954a6",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/d2954a6"
+            },
+            {
+              "hash": "e452451",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/e452451"
+            },
+            {
+              "hash": "d060ca1",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/d060ca1"
+            },
+            {
+              "hash": "82dd8ef",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/82dd8ef"
+            },
+            {
+              "hash": "867094b",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/867094b"
+            },
+            {
+              "hash": "3936f15",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/3936f15"
+            },
+            {
+              "hash": "23a0009",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/23a0009"
+            },
+            {
+              "hash": "e7b9caa",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/e7b9caa"
+            },
+            {
+              "hash": "3c7591a",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/3c7591a"
+            },
+            {
+              "hash": "00a5842",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/00a5842"
+            },
+            {
+              "hash": "c0b5f10",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/c0b5f10"
+            },
+            {
+              "hash": "f43dd0c",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/f43dd0c"
+            },
+            {
+              "hash": "b3bfcea",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/b3bfcea"
+            },
+            {
+              "hash": "037e915",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/037e915"
+            },
+            {
+              "hash": "da5b382",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/da5b382"
+            },
+            {
+              "hash": "a80f0b0",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/a80f0b0"
+            },
+            {
+              "hash": "9b82ab5",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/9b82ab5"
+            },
+            {
+              "hash": "d5fd407",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/d5fd407"
+            },
+            {
+              "hash": "120dc04",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/120dc04"
+            },
+            {
+              "hash": "a0687de",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/a0687de"
+            },
+            {
+              "hash": "551d04e",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/551d04e"
+            },
+            {
+              "hash": "7defc35",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/7defc35"
+            },
+            {
+              "hash": "c1474a2",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/c1474a2"
+            },
+            {
+              "hash": "abc4c5d",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/abc4c5d"
+            },
+            {
+              "hash": "3844182",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/3844182"
+            },
+            {
+              "hash": "5c38cf1",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/5c38cf1"
+            },
+            {
+              "hash": "5e69a37",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/5e69a37"
+            },
+            {
+              "hash": "af02712",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/af02712"
+            },
+            {
+              "hash": "f2e9f1f",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/f2e9f1f"
+            },
+            {
+              "hash": "768cdf0",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/768cdf0"
+            },
+            {
+              "hash": "39df1a4",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/39df1a4"
+            },
+            {
+              "hash": "f3b6472",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/f3b6472"
+            },
+            {
+              "hash": "d2ee603",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/d2ee603"
+            },
+            {
+              "hash": "8a4b7e8",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/8a4b7e8"
+            },
+            {
+              "hash": "233a573",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/233a573"
+            },
+            {
+              "hash": "02ada62",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/02ada62"
+            },
+            {
+              "hash": "1994fba",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/1994fba"
+            },
+            {
+              "hash": "edd0125",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/edd0125"
+            },
+            {
+              "hash": "acb54ec",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/acb54ec"
+            },
+            {
+              "hash": "bf953b8",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/bf953b8"
+            },
+            {
+              "hash": "ddf12f6",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/ddf12f6"
+            },
+            {
+              "hash": "6972713",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/6972713"
+            },
+            {
+              "hash": "67e2cd3",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/67e2cd3"
+            },
+            {
+              "hash": "f328bdc",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/f328bdc"
+            },
+            {
+              "hash": "136012f",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/136012f"
+            },
+            {
+              "hash": "8c8dabe",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/8c8dabe"
+            },
+            {
+              "hash": "77b10b8",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/77b10b8"
+            },
+            {
+              "hash": "d3b3e91",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/d3b3e91"
+            },
+            {
+              "hash": "cb5b7f4",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/cb5b7f4"
+            },
+            {
+              "hash": "7fba7e1",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/7fba7e1"
+            },
+            {
+              "hash": "bd5eb59",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/bd5eb59"
+            },
+            {
+              "hash": "1496df9",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/1496df9"
+            },
+            {
+              "hash": "f873f3d",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/f873f3d"
+            },
+            {
+              "hash": "d741230",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/d741230"
+            },
+            {
+              "hash": "51b8845",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/51b8845"
+            },
+            {
+              "hash": "e4de19d",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/e4de19d"
+            },
+            {
+              "hash": "bdb7c48",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/bdb7c48"
+            },
+            {
+              "hash": "70b7599",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/70b7599"
+            },
+            {
+              "hash": "22a968e",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/22a968e"
+            },
+            {
+              "hash": "b46dd34",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/b46dd34"
+            },
+            {
+              "hash": "f23d73a",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/f23d73a"
+            },
+            {
+              "hash": "9b6287e",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/9b6287e"
+            },
+            {
+              "hash": "b9353ff",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/b9353ff"
+            },
+            {
+              "hash": "0de78e6",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/0de78e6"
+            },
+            {
+              "hash": "13b366e",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/13b366e"
+            },
+            {
+              "hash": "5f362bd",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/5f362bd"
+            },
+            {
+              "hash": "b03aae8",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/b03aae8"
+            },
+            {
+              "hash": "ae4541b",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/ae4541b"
+            },
+            {
+              "hash": "5662ea1",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/5662ea1"
+            },
+            {
+              "hash": "969a448",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/969a448"
+            },
+            {
+              "hash": "d91dfa1",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/d91dfa1"
+            },
+            {
+              "hash": "649deb0",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/649deb0"
+            },
+            {
+              "hash": "4d8d293",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/4d8d293"
+            },
+            {
+              "hash": "974c3db",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/974c3db"
+            },
+            {
+              "hash": "41dd983",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/41dd983"
+            },
+            {
+              "hash": "9056975",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/9056975"
+            },
+            {
+              "hash": "b683a52",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/b683a52"
+            },
+            {
+              "hash": "2e823cd",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/2e823cd"
+            },
+            {
+              "hash": "5a6129a",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/5a6129a"
+            },
+            {
+              "hash": "e91f0d6",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/e91f0d6"
+            },
+            {
+              "hash": "9b936ed",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/9b936ed"
+            },
+            {
+              "hash": "12541e1",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/12541e1"
+            },
+            {
+              "hash": "4174444",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/4174444"
+            },
+            {
+              "hash": "518e097",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/518e097"
+            },
+            {
+              "hash": "e035634",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/e035634"
+            },
+            {
+              "hash": "3d8c1f1",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/3d8c1f1"
+            },
+            {
+              "hash": "6217fa0",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/6217fa0"
+            },
+            {
+              "hash": "f0970b0",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/f0970b0"
+            },
+            {
+              "hash": "3bcb292",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/3bcb292"
+            },
+            {
+              "hash": "1db75fc",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/1db75fc"
+            },
+            {
+              "hash": "9adfdef",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/9adfdef"
+            },
+            {
+              "hash": "0a8e2d6",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/0a8e2d6"
+            },
+            {
+              "hash": "b301ff2",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/b301ff2"
+            },
+            {
+              "hash": "975b7ad",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/975b7ad"
+            },
+            {
+              "hash": "90ca2fe",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/90ca2fe"
+            },
+            {
+              "hash": "1cd4a85",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/1cd4a85"
+            },
+            {
+              "hash": "4df0133",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/4df0133"
+            },
+            {
+              "hash": "4895f4d",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/4895f4d"
+            },
+            {
+              "hash": "512a6e3",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/512a6e3"
+            },
+            {
+              "hash": "45356ca",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/45356ca"
+            },
+            {
+              "hash": "f978217",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/f978217"
+            },
+            {
+              "hash": "3c372f9",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/3c372f9"
+            },
+            {
+              "hash": "d6d02ab",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/d6d02ab"
+            },
+            {
+              "hash": "49592f5",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/49592f5"
+            },
+            {
+              "hash": "3a9a38a",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/3a9a38a"
+            },
+            {
+              "hash": "d93869b",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/d93869b"
+            },
+            {
+              "hash": "2e5a4d0",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/2e5a4d0"
+            },
+            {
+              "hash": "e0ca4b2",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/e0ca4b2"
+            },
+            {
+              "hash": "e502fdd",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/e502fdd"
+            },
+            {
+              "hash": "87892c3",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/87892c3"
+            },
+            {
+              "hash": "87f143e",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/87f143e"
+            },
+            {
+              "hash": "f2bac2e",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/f2bac2e"
+            },
+            {
+              "hash": "a162089",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/a162089"
+            },
+            {
+              "hash": "c2d2817",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/c2d2817"
+            },
+            {
+              "hash": "c4eb76c",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/c4eb76c"
+            },
+            {
+              "hash": "e63ee63",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/e63ee63"
+            },
+            {
+              "hash": "181da25",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/181da25"
+            },
+            {
+              "hash": "6b8f59f",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/6b8f59f"
+            },
+            {
+              "hash": "697b4f1",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/697b4f1"
+            },
+            {
+              "hash": "a6ce3c9",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/a6ce3c9"
+            },
+            {
+              "hash": "f252f18",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/f252f18"
+            },
+            {
+              "hash": "5701baf",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/5701baf"
+            },
+            {
+              "hash": "0961a5f",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/0961a5f"
+            },
+            {
+              "hash": "43be079",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/43be079"
+            },
+            {
+              "hash": "be11f31",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/be11f31"
+            },
+            {
+              "hash": "25c19b2",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/25c19b2"
+            },
+            {
+              "hash": "ccdd1b1",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/ccdd1b1"
+            },
+            {
+              "hash": "4e44044",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/4e44044"
+            },
+            {
+              "hash": "9875526",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/9875526"
+            },
+            {
+              "hash": "2c60665",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/2c60665"
+            },
+            {
+              "hash": "26129ab",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/26129ab"
+            },
+            {
+              "hash": "7c21b14",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/7c21b14"
+            },
+            {
+              "hash": "38b1380",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/38b1380"
+            },
+            {
+              "hash": "99524e5",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/99524e5"
+            },
+            {
+              "hash": "a8a6942",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/a8a6942"
+            },
+            {
+              "hash": "c463c59",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/c463c59"
+            },
+            {
+              "hash": "4b6ac83",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/4b6ac83"
+            },
+            {
+              "hash": "647fdef",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/647fdef"
+            },
+            {
+              "hash": "18d0cb2",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/18d0cb2"
+            },
+            {
+              "hash": "e243ffe",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/e243ffe"
+            },
+            {
+              "hash": "3968ae5",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/3968ae5"
+            },
+            {
+              "hash": "5eda2c8",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/5eda2c8"
+            },
+            {
+              "hash": "62e0bc9",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/62e0bc9"
+            },
+            {
+              "hash": "e89d049",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/e89d049"
+            },
+            {
+              "hash": "7bc2eb7",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/7bc2eb7"
+            },
+            {
+              "hash": "800dfc6",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/800dfc6"
+            },
+            {
+              "hash": "f83df1a",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/f83df1a"
+            },
+            {
+              "hash": "f34e4e9",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/f34e4e9"
+            },
+            {
+              "hash": "9c7dce1",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/9c7dce1"
+            },
+            {
+              "hash": "bca3f89",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/bca3f89"
+            },
+            {
+              "hash": "6628676",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/6628676"
+            },
+            {
+              "hash": "db2293b",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/db2293b"
+            },
+            {
+              "hash": "86015d9",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/86015d9"
+            },
+            {
+              "hash": "f815873",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/f815873"
+            },
+            {
+              "hash": "8617c59",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/8617c59"
+            },
+            {
+              "hash": "aead2ef",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/aead2ef"
+            },
+            {
+              "hash": "bd29896",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/bd29896"
+            },
+            {
+              "hash": "f1ab4f3",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/f1ab4f3"
+            },
+            {
+              "hash": "ee6cfdd",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/ee6cfdd"
+            },
+            {
+              "hash": "7e470d0",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/7e470d0"
+            },
+            {
+              "hash": "368718d",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/368718d"
+            },
+            {
+              "hash": "ee8bb6c",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/ee8bb6c"
+            },
+            {
+              "hash": "32ba261",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/32ba261"
+            },
+            {
+              "hash": "872df1b",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/872df1b"
+            },
+            {
+              "hash": "7cda802",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/7cda802"
+            },
+            {
+              "hash": "a90ca34",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/a90ca34"
+            },
+            {
+              "hash": "a25cbd2",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/a25cbd2"
+            },
+            {
+              "hash": "4f74c1f",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/4f74c1f"
+            },
+            {
+              "hash": "7dbe78c",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/7dbe78c"
+            },
+            {
+              "hash": "9fdf395",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/9fdf395"
+            },
+            {
+              "hash": "102c9fe",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/102c9fe"
+            },
+            {
+              "hash": "509f298",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/509f298"
+            },
+            {
+              "hash": "64839f1",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/64839f1"
+            },
+            {
+              "hash": "2c61814",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/2c61814"
+            },
+            {
+              "hash": "999a653",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/999a653"
+            },
+            {
+              "hash": "aad56eb",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/aad56eb"
+            },
+            {
+              "hash": "0f3be99",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/0f3be99"
+            },
+            {
+              "hash": "952eec8",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/952eec8"
+            },
+            {
+              "hash": "c1e2bd1",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/c1e2bd1"
+            },
+            {
+              "hash": "1524539",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/1524539"
+            },
+            {
+              "hash": "794533e",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/794533e"
+            },
+            {
+              "hash": "15aa0f5",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/15aa0f5"
+            },
+            {
+              "hash": "b211805",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/b211805"
+            },
+            {
+              "hash": "af9673d",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/af9673d"
+            },
+            {
+              "hash": "a829db6",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/a829db6"
+            },
+            {
+              "hash": "f32ddb8",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/f32ddb8"
+            },
+            {
+              "hash": "decd9ab",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/decd9ab"
+            },
+            {
+              "hash": "b26e33e",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/b26e33e"
+            },
+            {
+              "hash": "1814bd1",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/1814bd1"
+            },
+            {
+              "hash": "f982adc",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/f982adc"
+            },
+            {
+              "hash": "c429ca6",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/c429ca6"
+            },
+            {
+              "hash": "c193a43",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/c193a43"
+            },
+            {
+              "hash": "06c1e25",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/06c1e25"
+            },
+            {
+              "hash": "041d4d3",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/041d4d3"
+            },
+            {
+              "hash": "12841c1",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/12841c1"
+            },
+            {
+              "hash": "b055c90",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/b055c90"
+            },
+            {
+              "hash": "abd6674",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/abd6674"
+            },
+            {
+              "hash": "2a91222",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/2a91222"
+            },
+            {
+              "hash": "4d5f0a0",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/4d5f0a0"
+            },
+            {
+              "hash": "339c05b",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/339c05b"
+            },
+            {
+              "hash": "05d3bb6",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/05d3bb6"
+            },
+            {
+              "hash": "6e5746e",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/6e5746e"
+            },
+            {
+              "hash": "abb263c",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/abb263c"
+            },
+            {
+              "hash": "c1967b7",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/c1967b7"
+            },
+            {
+              "hash": "7486d04",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/7486d04"
+            },
+            {
+              "hash": "bc544d2",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/bc544d2"
+            },
+            {
+              "hash": "b70bb1a",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/b70bb1a"
+            },
+            {
+              "hash": "9457d2b",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/9457d2b"
+            },
+            {
+              "hash": "4692ec4",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/4692ec4"
+            },
+            {
+              "hash": "ed26619",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/ed26619"
+            },
+            {
+              "hash": "ed99a96",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/ed99a96"
+            },
+            {
+              "hash": "26f1d19",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/26f1d19"
+            },
+            {
+              "hash": "9cf89f7",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/9cf89f7"
+            },
+            {
+              "hash": "da153a2",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/da153a2"
+            },
+            {
+              "hash": "b0d0780",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/b0d0780"
+            },
+            {
+              "hash": "fb868ba",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/fb868ba"
+            },
+            {
+              "hash": "2cfb713",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/2cfb713"
+            },
+            {
+              "hash": "a868ed7",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/a868ed7"
+            },
+            {
+              "hash": "4a1d58c",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/4a1d58c"
+            },
+            {
+              "hash": "2b66534",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/2b66534"
+            },
+            {
+              "hash": "7eef82e",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/7eef82e"
+            },
+            {
+              "hash": "f6292a1",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/f6292a1"
+            },
+            {
+              "hash": "596506d",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/596506d"
+            },
+            {
+              "hash": "d94d033",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/d94d033"
+            },
+            {
+              "hash": "6957a68",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/6957a68"
+            },
+            {
+              "hash": "a0e49c6",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/a0e49c6"
+            },
+            {
+              "hash": "62175db",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/62175db"
+            },
+            {
+              "hash": "20a4e16",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/20a4e16"
+            },
+            {
+              "hash": "e40366a",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/e40366a"
+            },
+            {
+              "hash": "230ab1d",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/230ab1d"
+            },
+            {
+              "hash": "33b4323",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/33b4323"
+            },
+            {
+              "hash": "68d5d8d",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/68d5d8d"
+            },
+            {
+              "hash": "7474bbc",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/7474bbc"
+            },
+            {
+              "hash": "738a3a1",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/738a3a1"
+            },
+            {
+              "hash": "9948d82",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/9948d82"
+            },
+            {
+              "hash": "acaf2cc",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/acaf2cc"
+            },
+            {
+              "hash": "5b36ef8",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/5b36ef8"
+            },
+            {
+              "hash": "317837a",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/317837a"
+            },
+            {
+              "hash": "7cab547",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/7cab547"
+            },
+            {
+              "hash": "8a5868c",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/8a5868c"
+            },
+            {
+              "hash": "a3cf405",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/a3cf405"
+            },
+            {
+              "hash": "a3ea374",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/a3ea374"
+            },
+            {
+              "hash": "1c5ae4c",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/1c5ae4c"
+            },
+            {
+              "hash": "2aaaac4",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/2aaaac4"
+            },
+            {
+              "hash": "60b0177",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/60b0177"
+            },
+            {
+              "hash": "6169635",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/6169635"
+            },
+            {
+              "hash": "0ba7773",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/0ba7773"
+            },
+            {
+              "hash": "429f084",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/429f084"
+            },
+            {
+              "hash": "a7d7619",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/a7d7619"
+            },
+            {
+              "hash": "eb61ece",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/eb61ece"
+            },
+            {
+              "hash": "e540819",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/e540819"
+            },
+            {
+              "hash": "6db2bbb",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/6db2bbb"
+            },
+            {
+              "hash": "835264f",
+              "subject": null,
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/835264f"
+            }
+          ]
+        },
+        {
+          "title": "feat",
+          "type": "feat",
+          "commits": [
+            {
+              "hash": "882941b",
+              "subject": "add 2 apis for user controller",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/882941b"
+            },
+            {
+              "hash": "747d50b",
+              "subject": "add 3 exp cases",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/747d50b"
+            },
+            {
+              "hash": "c2fdcdf",
+              "subject": "add api call and data process in edit project",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/c2fdcdf"
+            },
+            {
+              "hash": "fe95710",
+              "subject": "add coverage",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/fe95710"
+            },
+            {
+              "hash": "bd58873",
+              "subject": "add delete request warning and mock release files",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/bd58873"
+            },
+            {
+              "hash": "8e37a6d",
+              "subject": "add detail project page",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/8e37a6d"
+            },
+            {
+              "hash": "067492c",
+              "subject": "add edit release ui",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/067492c"
+            },
+            {
+              "hash": "2056769",
+              "subject": "add entity",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/2056769"
+            },
+            {
+              "hash": "2ddebb7",
+              "subject": "add files to release",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/2ddebb7"
+            },
+            {
+              "hash": "431c875",
+              "subject": "add project api",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/431c875"
+            },
+            {
+              "hash": "c0f17e6",
+              "subject": "add project builds in edit release",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/c0f17e6"
+            },
+            {
+              "hash": "576c57b",
+              "subject": "add project cud handler tcs",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/576c57b"
+            },
+            {
+              "hash": "010cb07",
+              "subject": "add project detail api",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/010cb07"
+            },
+            {
+              "hash": "7e53950",
+              "subject": "add project handlers",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/7e53950"
+            },
+            {
+              "hash": "1327263",
+              "subject": "add project module repo",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/1327263"
+            },
+            {
+              "hash": "df2a541",
+              "subject": "add project phase update and drag and drop",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/df2a541"
+            },
+            {
+              "hash": "781dcb2",
+              "subject": "add protected route and unauthorized page",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/781dcb2"
+            },
+            {
+              "hash": "4b455c4",
+              "subject": "add release handler tcs",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/4b455c4"
+            },
+            {
+              "hash": "9daa2d9",
+              "subject": "add release history",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/9daa2d9"
+            },
+            {
+              "hash": "c04da65",
+              "subject": "add release history",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/c04da65"
+            },
+            {
+              "hash": "911d27e",
+              "subject": "add release tables migrations",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/911d27e"
+            },
+            {
+              "hash": "646a717",
+              "subject": "add reset to edit project",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/646a717"
+            },
+            {
+              "hash": "8fbce38",
+              "subject": "add tcs",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/8fbce38"
+            },
+            {
+              "hash": "62e640a",
+              "subject": "add tcs for create project repo method",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/62e640a"
+            },
+            {
+              "hash": "7a3cfa9",
+              "subject": "add tcs for update project access repo method",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/7a3cfa9"
+            },
+            {
+              "hash": "dfdbc9d",
+              "subject": "add tcs for update project repo method",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/dfdbc9d"
+            },
+            {
+              "hash": "cfa9022",
+              "subject": "add test for update project phases",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/cfa9022"
+            },
+            {
+              "hash": "e390a9a",
+              "subject": "add update project phases api",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/e390a9a"
+            },
+            {
+              "hash": "1cf7ba2",
+              "subject": "add update release phase",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/1cf7ba2"
+            },
+            {
+              "hash": "1a9579f",
+              "subject": "additional tcs for project handlers",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/1a9579f"
+            },
+            {
+              "hash": "990f42b",
+              "subject": "additional test for release repo method",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/990f42b"
+            },
+            {
+              "hash": "1bce42b",
+              "subject": "cru release",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/1bce42b"
+            },
+            {
+              "hash": "b93e81b",
+              "subject": "delete and download file",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/b93e81b"
+            },
+            {
+              "hash": "1f156bd",
+              "subject": "finish edit page",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/1f156bd"
+            },
+            {
+              "hash": "13be5a2",
+              "subject": "implement add project api in ui",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/13be5a2"
+            },
+            {
+              "hash": "ce8c8d4",
+              "subject": "implement upload and get file from fdc",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/ce8c8d4"
+            },
+            {
+              "hash": "8cd9ac5",
+              "subject": "navigate to edit after create project and fix edit",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/8cd9ac5"
+            },
+            {
+              "hash": "6967ac4",
+              "subject": "pr",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/6967ac4"
+            },
+            {
+              "hash": "3811f65",
+              "subject": "project phase",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/3811f65"
+            },
+            {
+              "hash": "435fd4a",
+              "subject": "release progress in project detail",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/435fd4a"
+            },
+            {
+              "hash": "09f3826",
+              "subject": "set up integration test and data init logic",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/09f3826"
+            },
+            {
+              "hash": "37335ac",
+              "subject": "set up integration test and data init logic",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/37335ac"
+            },
+            {
+              "hash": "086a91a",
+              "subject": "store phase to release create",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/086a91a"
+            },
+            {
+              "hash": "dd8a3c9",
+              "subject": "semantic release integration",
+              "scope": "DevOps-354",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/dd8a3c9"
+            },
+            {
+              "hash": "1dde28c",
+              "subject": "integration semantic release",
+              "scope": "docs",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/1dde28c"
+            }
+          ]
+        },
+        {
+          "title": "fix",
+          "type": "fix",
+          "commits": [
+            {
+              "hash": "6f5b308",
+              "subject": "add basepath",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/6f5b308"
+            },
+            {
+              "hash": "70df0db",
+              "subject": "add text length process",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/70df0db"
+            },
+            {
+              "hash": "4e34af4",
+              "subject": "appsetting",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/4e34af4"
+            },
+            {
+              "hash": "b5f968a",
+              "subject": "change talbe name",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/b5f968a"
+            },
+            {
+              "hash": "5e41c1e",
+              "subject": "code coverage ignore for 3rd party code",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/5e41c1e"
+            },
+            {
+              "hash": "9745392",
+              "subject": "color",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/9745392"
+            },
+            {
+              "hash": "b6997cd",
+              "subject": "contract coverage",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/b6997cd"
+            },
+            {
+              "hash": "459f341",
+              "subject": "duplicate project name",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/459f341"
+            },
+            {
+              "hash": "1f7c927",
+              "subject": "empty state",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/1f7c927"
+            },
+            {
+              "hash": "5103ddd",
+              "subject": "encode id in release access update",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/5103ddd"
+            },
+            {
+              "hash": "edd6749",
+              "subject": "exclude folder in sonar scan",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/edd6749"
+            },
+            {
+              "hash": "7fed220",
+              "subject": "fix conflict",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/7fed220"
+            },
+            {
+              "hash": "7ad995f",
+              "subject": "ignore build handler",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/7ad995f"
+            },
+            {
+              "hash": "e02f56c",
+              "subject": "ignore coverage",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/e02f56c"
+            },
+            {
+              "hash": "66f2083",
+              "subject": "ignore file",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/66f2083"
+            },
+            {
+              "hash": "1a0bb8c",
+              "subject": "implemen encode release id",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/1a0bb8c"
+            },
+            {
+              "hash": "9f56d5f",
+              "subject": "merge",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/9f56d5f"
+            },
+            {
+              "hash": "a0b038b",
+              "subject": "migration and add project phases in create and get detail project",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/a0b038b"
+            },
+            {
+              "hash": "04db4ef",
+              "subject": "minor change",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/04db4ef"
+            },
+            {
+              "hash": "1cf08c9",
+              "subject": "modify get project detail api",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/1cf08c9"
+            },
+            {
+              "hash": "0d3c5ed",
+              "subject": "page color",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/0d3c5ed"
+            },
+            {
+              "hash": "3ee6211",
+              "subject": "project in progress",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/3ee6211"
+            },
+            {
+              "hash": "e91bd0d",
+              "subject": "redundant route",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/e91bd0d"
+            },
+            {
+              "hash": "e6240aa",
+              "subject": "refactor application layer test",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/e6240aa"
+            },
+            {
+              "hash": "2d01c19",
+              "subject": "refactor application layer test",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/2d01c19"
+            },
+            {
+              "hash": "07462bb",
+              "subject": "relative path",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/07462bb"
+            },
+            {
+              "hash": "2ea0b96",
+              "subject": "relative path warning",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/2ea0b96"
+            },
+            {
+              "hash": "1ed8413",
+              "subject": "remove partners com will remove coresponding partner email in edit project access",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/1ed8413"
+            },
+            {
+              "hash": "60522cc",
+              "subject": "rerender release module table",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/60522cc"
+            },
+            {
+              "hash": "dfcdd76",
+              "subject": "sonar flow",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/dfcdd76"
+            },
+            {
+              "hash": "6123211",
+              "subject": "test",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/6123211"
+            },
+            {
+              "hash": "18b5ce0",
+              "subject": "trim issue",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/18b5ce0"
+            },
+            {
+              "hash": "19c0582",
+              "subject": "trim warning in release crud",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/19c0582"
+            },
+            {
+              "hash": "4252edb",
+              "subject": "unchanged bar",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/4252edb"
+            },
+            {
+              "hash": "4c176d5",
+              "subject": "unit test",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/4c176d5"
+            },
+            {
+              "hash": "8dddaab",
+              "subject": "unsave change logic in edit project",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/8dddaab"
+            },
+            {
+              "hash": "3206a3f",
+              "subject": "update project access repo",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/3206a3f"
+            },
+            {
+              "hash": "7f4362b",
+              "subject": "update project and release meta data",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/7f4362b"
+            },
+            {
+              "hash": "b16e7d5",
+              "subject": "update tcs",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/b16e7d5"
+            },
+            {
+              "hash": "e84f618",
+              "subject": "use encode project id",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/e84f618"
+            },
+            {
+              "hash": "16039b2",
+              "subject": "update release with semantic",
+              "scope": "DevOps-354",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/16039b2"
+            }
+          ]
+        },
+        {
+          "title": "devops",
+          "type": "devops",
+          "commits": [
+            {
+              "hash": "c0c8b0b",
+              "subject": "update cicd",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/c0c8b0b"
+            },
+            {
+              "hash": "a36794a",
+              "subject": "update github action template",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/a36794a"
+            }
+          ]
+        },
+        {
+          "title": "hotfix",
+          "type": "hotfix",
+          "commits": [
+            {
+              "hash": "7313b81",
+              "subject": "add releas command",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/7313b81"
+            },
+            {
+              "hash": "928603f",
+              "subject": "add releas command",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/928603f"
+            },
+            {
+              "hash": "b412942",
+              "subject": "application test",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/b412942"
+            },
+            {
+              "hash": "7f60dd4",
+              "subject": "common image component",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/7f60dd4"
+            },
+            {
+              "hash": "1b6db3e",
+              "subject": "create project service",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/1b6db3e"
+            },
+            {
+              "hash": "18b0d6e",
+              "subject": "product phase table",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/18b0d6e"
+            },
+            {
+              "hash": "7408563",
+              "subject": "update project phase",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/7408563"
+            },
+            {
+              "hash": "ae31e4b",
+              "subject": "upload file",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/ae31e4b"
+            }
+          ]
+        },
+        {
+          "title": "Hotfix",
+          "type": "Hotfix",
+          "commits": [
+            {
+              "hash": "d9ea14f",
+              "subject": "jenkins utility url for api call",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/d9ea14f"
+            },
+            {
+              "hash": "0652791",
+              "subject": "set api_key option for fetched remoteFile, support recursive delete option",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/0652791"
+            }
+          ]
+        },
+        {
+          "title": "DevOps",
+          "type": "DevOps",
+          "commits": [
+            {
+              "hash": "afd2b40",
+              "subject": "add console logs",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/afd2b40"
+            },
+            {
+              "hash": "124ee0d",
+              "subject": "add images basepath",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/124ee0d"
+            },
+            {
+              "hash": "d54e41b",
+              "subject": "enable test",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/d54e41b"
+            },
+            {
+              "hash": "341b015",
+              "subject": "exclude project",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/341b015"
+            },
+            {
+              "hash": "3915598",
+              "subject": "fix base path",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/3915598"
+            },
+            {
+              "hash": "40d22a7",
+              "subject": "fix base path",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/40d22a7"
+            },
+            {
+              "hash": "395814d",
+              "subject": "fix the base path",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/395814d"
+            },
+            {
+              "hash": "f5cb928",
+              "subject": "https local remove",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/f5cb928"
+            },
+            {
+              "hash": "b5dcffa",
+              "subject": "remove UI project",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/b5dcffa"
+            },
+            {
+              "hash": "110d793",
+              "subject": "skip test",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/110d793"
+            },
+            {
+              "hash": "68dab54",
+              "subject": "skip test coverage",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/68dab54"
+            },
+            {
+              "hash": "1f12597",
+              "subject": "Sonarqube integration",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/1f12597"
+            },
+            {
+              "hash": "cbb230e",
+              "subject": "test UI basepath",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/cbb230e"
+            },
+            {
+              "hash": "f8a7422",
+              "subject": "tmp disable test",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/f8a7422"
+            },
+            {
+              "hash": "1377f77",
+              "subject": "update",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/1377f77"
+            },
+            {
+              "hash": "8f49b88",
+              "subject": "update api URL",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/8f49b88"
+            },
+            {
+              "hash": "b72a2b4",
+              "subject": "update base path",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/b72a2b4"
+            },
+            {
+              "hash": "3a8860c",
+              "subject": "update base path",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/3a8860c"
+            },
+            {
+              "hash": "7c35c47",
+              "subject": "update basepath",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/7c35c47"
+            },
+            {
+              "hash": "3461eb5",
+              "subject": "update basepath",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/3461eb5"
+            },
+            {
+              "hash": "27a4c91",
+              "subject": "update basepath",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/27a4c91"
+            },
+            {
+              "hash": "058372f",
+              "subject": "update basepath",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/058372f"
+            },
+            {
+              "hash": "7283f1d",
+              "subject": "Update basepath",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/7283f1d"
+            },
+            {
+              "hash": "ac1890c",
+              "subject": "update basepath for project",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/ac1890c"
+            },
+            {
+              "hash": "a3210b9",
+              "subject": "update callback uri",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/a3210b9"
+            },
+            {
+              "hash": "414a227",
+              "subject": "update dockerfile",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/414a227"
+            },
+            {
+              "hash": "a0d5502",
+              "subject": "update dockerfile with authen",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/a0d5502"
+            },
+            {
+              "hash": "6f885e8",
+              "subject": "update env variable",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/6f885e8"
+            },
+            {
+              "hash": "fe54cda",
+              "subject": "Update library",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/fe54cda"
+            },
+            {
+              "hash": "19a71d5",
+              "subject": "update nginx config",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/19a71d5"
+            },
+            {
+              "hash": "cd95570",
+              "subject": "Update project basepath for images",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/cd95570"
+            },
+            {
+              "hash": "9d67908",
+              "subject": "update test",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/9d67908"
+            },
+            {
+              "hash": "fe18278",
+              "subject": "update test",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/fe18278"
+            },
+            {
+              "hash": "1d06d6b",
+              "subject": "update test excluse ui folde",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/1d06d6b"
+            },
+            {
+              "hash": "2f28376",
+              "subject": "update test parametter",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/2f28376"
+            },
+            {
+              "hash": "fec0325",
+              "subject": "update testfile",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/fec0325"
+            },
+            {
+              "hash": "6d7df89",
+              "subject": "update the basepath",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/6d7df89"
+            },
+            {
+              "hash": "36a8513",
+              "subject": "Update the path",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/36a8513"
+            },
+            {
+              "hash": "6df91bb",
+              "subject": "update the workflow for project (include API and UI)",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/6df91bb"
+            },
+            {
+              "hash": "41b927c",
+              "subject": "update ui",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/41b927c"
+            },
+            {
+              "hash": "a75384c",
+              "subject": "Update UI github action workflow",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/a75384c"
+            },
+            {
+              "hash": "1b2eb3d",
+              "subject": "update update the callback",
+              "commitUrl": "https://github.com/spatialbiz/project-utility/commit/1b2eb3d"
+            }
+          ]
+        }
+      ],
+      "compareUrl": "https://github.com/spatialbiz/project-utility/compare/5e69a37...v1.0.0"
+    }
+  ]
+}

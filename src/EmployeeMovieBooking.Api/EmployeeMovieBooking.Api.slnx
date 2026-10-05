@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="EmployeeMovieBooking.Api/EmployeeMovieBooking.Api.csproj" />
+  <Project Path="EmployeeMovieBooking.Application/EmployeeMovieBooking.Application.csproj" />
+  <Project Path="EmployeeMovieBooking.Contract/EmployeeMovieBooking.Contract.csproj" />
+  <Project Path="EmployeeMovieBooking.Database/EmployeeMovieBooking.Database.csproj" />
+  <Project Path="EmployeeMOvieBooking.Domain/EmployeeMovieBooking.Domain.csproj" />
+  <Project Path="EmployeeMovieBooking.Persistence/EmployeeMovieBooking.Persistence.csproj" />
+  <Project Path="EmployeeMovieBooking.Presentation/EmployeeMovieBooking.Presentation.csproj" />
+</Solution>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+  <DataCollectionRunSettings>
+    <DataCollectors>
+      <DataCollector friendlyName="XPlat Code Coverage">
+        <Configuration>
+          <Format>opencover</Format>
+          <Exclude>
+            [UserPortal.API*]*
+            [UserPortal.Infrastructure*]*
+            [UserPortal.Presentation*]*
+            [UserPortal.Persistence.Dapper*]*
+            [UserPortal.Persistence.DependencyInjection*]*
+            [UserPortal.Persistence.EFCore*]*
+            [UserPortal.Persistence.EFCore.Migrations*]*
+            [UserPortal.Persistence.EFCore.Seed*]*
+            [UserPortal.Application.Behaviors*]*
+            [UserPortal.Application.DependencyInjection.Extensions*]*
+            [UserPortal.Application.Exceptions*]*
+            [UserPortal.Application.Models*]*
+            [UserPortal.Domain.Abstractions*]*
+            [UserPortal.Domain.Enums*]*
+            [UserPortal.Contract.Abstractions*]*
+          </Exclude>
+          <ExcludeByFile>
+            **/UserPortalDbContextFactory.cs
+            **/AssemblyReference.cs
+          </ExcludeByFile>
+        </Configuration>
+      </DataCollector>
+    </DataCollectors>
+  </DataCollectionRunSettings>
+</RunSettings>
